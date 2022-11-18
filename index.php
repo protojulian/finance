@@ -123,7 +123,7 @@
                                 </button>
                             </div>
                         </nav>
-                        <span class="fw-bold ms-2">Payments</span>
+                        <span class="fw-bold ms-2">Payments V2</span>
                     </div>
 
                     <span class="d-flex justify-content-between align-items-center me-4">
